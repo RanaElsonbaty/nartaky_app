@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393058460742",
+    "project_id": "nartaky-a6aa2",
+    "storage_bucket": "nartaky-a6aa2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393058460742:android:8ae2354cceb9cb856cd647",
+        "android_client_info": {
+          "package_name": "com.example.nrtaky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt1PBLI_OU1x0XhLV4EU1oGiU08xO8Mic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
